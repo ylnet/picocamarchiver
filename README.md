@@ -1,2 +1,2 @@
 # picocamarchiver
-Minimalist tool to archives camera files
+Minimalist command line tool for archiving camera files quickly.
